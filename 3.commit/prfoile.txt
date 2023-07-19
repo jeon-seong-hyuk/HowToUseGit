@@ -1,2 +1,2 @@
-email : dusgh153@jbnu.ac.kr
-gitID : KIM-YEON_HO
+email : 201911892@jbnu.ac.kr
+gitID : Jeon-Seong-Hyeok
